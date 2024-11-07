@@ -8,3 +8,7 @@ https://github.com/AI4Bharat/IndicTrans2
 
 https://github.com/goru001/nlp-for-tanglish
 
+https://www.statmt.org/wmt22/code-mixed-translation-task.html
+
+
+
