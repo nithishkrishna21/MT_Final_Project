@@ -1,0 +1,10 @@
+http://transliteration.eki.ee
+
+https://www.kaggle.com/datasets/mathurinache/samanantar/data
+
+https://medium.com/@avinash2060/indias-voice-transcribed-translated-and-voiced-meet-sarvam-and-its-multilingual-ai-models-31f9bffafe9b
+
+https://github.com/AI4Bharat/IndicTrans2
+
+https://github.com/goru001/nlp-for-tanglish
+
