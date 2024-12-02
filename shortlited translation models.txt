@@ -1,0 +1,11 @@
+indictrans2 - https://ai4bharat.iitm.ac.in/areas/model/NMT/IndicTrans2
+
+indicbert - https://huggingface.co/ai4bharat/indic-bert
+
+azure - https://learn.microsoft.com/en-us/azure/ai-services/translator/
+
+facebook - https://huggingface.co/facebook/m2m100_418M
+
+google - https://huggingface.co/google/madlad400-3b-mt
+
+
